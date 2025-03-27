@@ -1,7 +1,9 @@
+<!Doctype html>
 <html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
+    <title>Teste</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -38,5 +40,6 @@
     <footer>
         <p>&copy;Mateus Bergone</p>
     </footer>
+    <script src="script.js"></script>
 </body>
 </html>
