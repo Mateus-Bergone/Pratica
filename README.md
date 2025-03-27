@@ -26,7 +26,7 @@
     </section>
     <section>
         <h2>O que eu quero fazer?</h2>
-        <p>Eu quero me especializar em programação, estou gostando dessa área e quero me aprofundar mais, ter bastante
+        <p>Eu quero me especializar em programação, estou gostando dessa área e quero me aprender mais, ter bastante
             conhecimento e praticar bastante, é uma mistura de diversão com prazer.</p>
     </section>
     <section>
